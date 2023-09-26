@@ -4,6 +4,7 @@
 Um site demostrando alguns serviços prestados e informações sobre o local 
 
 ## 📌 versão 
+Link do site.
 1.0.0 https://art2.netlify.app/
 ### 📋 Pré-requisitos
 

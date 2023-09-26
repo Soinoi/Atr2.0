@@ -3,7 +3,8 @@
 
 Um site demostrando alguns serviços prestados e informações sobre o local 
 
-
+## 📌 versão 
+1.0.0 https://art2.netlify.app/
 ### 📋 Pré-requisitos
 
 De que você precisa para visualizar o site?
@@ -43,8 +44,7 @@ img: Este seletor aplica estilos a todos img elementos, definindo também seu al
 ul: Este seletor aplica estilos a <ul> elementos de listas não ordenadas. Ele altera o modo de exibição para flexível, justifica o espaço entre o conteúdo, alinha os itens ao centro, remove o tipo de estilo de lista padrão (marcadores), adiciona alguns 
 Outro a seletor: Este seletor visa especificamente elementos âncora ( <a>) que não estão dentro de um ul elemento. Ele define a cor do texto para preto e remove a decoração do texto (sublinhado). 
 ```
-## 📌 versão 
-1.0.0 https://art2.netlify.app/
+
 
 ## 🎁 Expressões de gratidão
 Agradeço a todos que me ajudaram nesse projeto

@@ -18,7 +18,7 @@ Um navegador de internet
 ## 🛠️ Construído em linguagens HTML e CSS
  mais de 90% escrito em HTML e restante em CSS
 
-## 🛠️ Seletores HTML
+## 🛠️ Tags HTML
 ```
 O body seletor é usado para aplicar estilos a todo o corpo do documento. Neste caso, define a cor de fundo como “bege”. 
 O h1 seletor aplica estilos a todos h1 ,os elementos da página. Primeiro ele centraliza o texto horizontalmente usando text-align: center e depois adiciona uma decoração sobreposta ao texto usando text-decoration-line: overline. 
